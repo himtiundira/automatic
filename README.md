@@ -1,1 +1,1 @@
-# automatic Github Update
+# Automatic Github Update
